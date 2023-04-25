@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Leandro</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados tanto no mundo digital quanto na academia</h3>
 <h4 align="center">**English Version all the way down**<h4>
+ 
 - 😄 Pronomes: **Ele/Dele**
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Machine learning e Power Bi**
