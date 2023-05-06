@@ -13,6 +13,8 @@
 - 📫 Você me acha pelo **leandrogomesf@gmail.com**
 
 - 📄 Tenho experiencia em análises de redes sociais, análise de patentes, bibliometria, k-means [https://www.linkedin.com/in/leandro-ferreira-6a578823/](https://www.linkedin.com/in/leandro-ferreira-6a578823/)
+ 
+- ⚡ Eu tenho um Kaggle https://www.kaggle.com/code/leandrogomesf/voc-pagou-a-fatura
 
 - ⚡ Curiosidade **Consumo todos os dias um podcast de crimes reais**
 
@@ -41,6 +43,8 @@
 - 📫 You can reach me **leandrogomesf@gmail.com**
 
 - 📄 I have experience on Social Network Analysis, Statistics, Patent Anlysis, Bibliometrics [https://www.linkedin.com/in/leandro-ferreira-6a578823/](https://www.linkedin.com/in/leandro-ferreira-6a578823/)
+
+- ⚡ I have a Kaggle https://www.kaggle.com/code/leandrogomesf/voc-pagou-a-fatura
 
 - ⚡ Fun Fact **I love true crime podcasts**
 
